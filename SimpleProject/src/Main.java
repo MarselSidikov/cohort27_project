@@ -13,5 +13,11 @@ public class Main {
     String a1 = sc.nextLine();
     String a2 = sc.nextLine();
     System.out.println(a1 + a2);
+
+    int a = sc.nextInt();
+    int b = sc.nextInt();
+    int c = a + b;
+
+    System.out.println(c);
   }
 }
